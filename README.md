@@ -40,6 +40,52 @@ Final Year Information Technology Student from Pune, India 🇮🇳
 <a href="https://github.com/sujatadhebe123">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+---
 
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
+</p>
+Programming:
+C++ | Java | Python | C
+
+Frontend:
+HTML | CSS | JavaScript | React | Bootstrap | Tailwind
+
+Backend:
+Node.js | Express.js | PHP
+
+Database:
+MongoDB | MySQL | PostgreSQL
+
+Tools:
+Git | GitHub | VS Code | Postman | Vite
 </p>
 
