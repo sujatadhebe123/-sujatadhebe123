@@ -73,5 +73,38 @@ Final Year Information Technology Student from Pune, India 🇮🇳
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
 </p>
+Programming:
+C++ | Java | Python | C
+
+Frontend:
+HTML | CSS | JavaScript | React | Bootstrap | Tailwind
+
+Backend:
+Node.js | Express.js | PHP
+
+Database:
+MongoDB | MySQL | PostgreSQL
+
+Tools:
+Git | GitHub | VS Code | Postman | Vite
+---
+
+## 💼 Experience
+
+### 👩‍💻 Java Full Stack Developer Intern
+**Humming Byte Technologies**
+
+- Developed a **Restaurant Menu Management System**
+- Worked with **Java, JSP, JDBC and PostgreSQL**
+- Gained hands-on experience in backend development and database integration
+
+### 🌐 MERN Stack Developer Intern
+**Scalefull Technologies**
+
+- Developed a **Personal Expense Tracker**
+- Worked with **MongoDB, Express.js, React.js and Node.js**
+- Built REST APIs and integrated frontend with backend services
+
+---
 
 
