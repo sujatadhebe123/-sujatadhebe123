@@ -73,19 +73,5 @@ Final Year Information Technology Student from Pune, India 🇮🇳
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
 </p>
-Programming:
-C++ | Java | Python | C
 
-Frontend:
-HTML | CSS | JavaScript | React | Bootstrap | Tailwind
-
-Backend:
-Node.js | Express.js | PHP
-
-Database:
-MongoDB | MySQL | PostgreSQL
-
-Tools:
-Git | GitHub | VS Code | Postman | Vite
-</p>
 
